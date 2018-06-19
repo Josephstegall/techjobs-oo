@@ -5,7 +5,7 @@ package org.launchcode.models;
  */
 public class Job {
 
-    private int id;
+    private Integer id;
     private static int nextId = 1;
 
     private String name;
